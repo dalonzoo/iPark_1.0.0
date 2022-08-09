@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iPark 3.0</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="free">easy, fast... <font color='#FF0000'>free </font></string>
+</resources>
